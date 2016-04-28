@@ -1,2 +1,2 @@
-# sztx.cc
-a project for sztx
+# Project for sztx
+some test words here
